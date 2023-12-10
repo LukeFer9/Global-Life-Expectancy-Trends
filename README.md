@@ -5,4 +5,6 @@
  This project is a demonstration of visualization tools designed to aid in the analysis of life expectancy trends for different countries, leading up to COVID-19.
  The tools include interactive features that allow a user to focus their analyses based on a specific country.
 
+ [Screenshot of Demo](docs/Life Expectancy Trends0.png)
+
  A demo of the tools can be found [here](https://my.up.ist.psu.edu/lzf5254/330%20Group%20Project/Final.html).
